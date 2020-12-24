@@ -21,7 +21,7 @@ You can use the language, framework and the tools of your choice. Choose the one
 
 ## Expected time frame
 
-We voluntarily do not set an exact time frame for this test. Please don't take too much time to do it, at least not more than 4 hours.
+There is no set time frame for this test. We want to be respectful of your time so please try and limit yourself to no more than 4 hours
 
 ## Test result
 
