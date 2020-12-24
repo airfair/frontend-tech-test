@@ -8,7 +8,7 @@ The goal of this test is to create the following pages for our exhibitor app reg
 
 - A page to list all the content sessions
 - A way to look up a content session
-- A way to create and update a content sessions
+- A way to create and update a content session
 - An action to delete a content session
 
 ## Data
