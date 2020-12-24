@@ -13,7 +13,7 @@ The goal of this test is to create the following pages for our exhibitor app reg
 
 ## Data
 
-You should find in this repository a JSON file containing some content sessions. The fields are pretty much self explanatory and we expect you to find a way to display all those fields in the most convenient way according to you.
+In this repository you'll find a JSON file containing some content sessions. The fields are self explanatory and we expect you to find a way to display all fields in the most convenient way (according to you).
 
 ## Tech tools
 
