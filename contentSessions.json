@@ -1,0 +1,166 @@
+[
+  {
+    "id": "ae958e4a-67b0-42e7-9e47-f84ede0ad1d1",
+    "name": "Future of Work Tradeshow",
+    "description": "Join the 5th edition of the Future of Work 2020 - the world largest remote work trade show. Learn how you, your company and your community can benefit from all the values that flexible work generates. 60+ Speakers, 32 sessions, 4 workshops, networking and virtual expo.",
+    "status": "published",
+    "startsAt": "2021-01-10T07:00:00.000Z",
+    "endsAt": "2021-01-10T07:30:00.000Z",
+    "company": {
+      "name": "Oracle",
+      "description": "cultivate transparent bandwidth"
+    },
+    "coverUrl": "https://picsum.photos/id/119/800/600",
+    "speakers": [
+      {
+        "id": "277f7b2a-7e21-42c6-afdf-dbe6d2ee2b30",
+        "email": "jane.doe@oracle.com",
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "pictureUrl": "https://i.pravatar.cc/100",
+        "profile": {
+          "position": "Software reseller",
+          "department": "customer_service",
+          "company": {
+            "name": "Oracle",
+            "description": "cultivate transparent bandwidth"
+          }
+        }
+      },
+      {
+        "id": "287d7tb8-7214-3df8-32t6-3d52deee25zl",
+        "email": "jack.sparrow@blackpearl.com",
+        "firstName": "Jack",
+        "lastName": "Sparrow",
+        "pictureUrl": "https://i.pravatar.cc/100",
+        "profile": {
+          "position": "Boat captain",
+          "department": "sales",
+          "company": {
+            "name": "Black Pearl",
+            "description": "The Pearl of the Carribeans"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "35ea9be3-7063-4bad-992b-ee4dbc2e7452",
+    "name": "Keynote: People Ops as a Product",
+    "description": "Jessica Hayes, VP of People at Whereby shares her vision about People Ops as a product.",
+    "status": "draft",
+    "startsAt": "2021-12-04T08:00:00.000Z",
+    "endsAt": "2021-12-04T08:30:00.000Z",
+    "company": {
+      "name": "Oracle",
+      "description": "cultivate transparent bandwidth"
+    },
+    "coverUrl": "https://picsum.photos/id/177/800/600",
+    "speakers": [{
+      "id": "0663bf5e-9797-462d-b3dc-fd1f1958776d",
+      "email": "jessica.hayes@whereby.com",
+      "firstName": "Jessica",
+      "lastName": "Hayes",
+      "pictureUrl": "https://i.pravatar.cc/100",
+      "profile": {
+        "position": "VP of People",
+        "department": "human_ressources",
+        "company": {
+          "name": "Whereby",
+          "description": "easy video meetings"
+        }
+      }
+    }]
+  },
+  {
+    "id": "15581245-9d4e-4b7c-9fd7-ce6ec425fc60",
+    "name": "Keynote: Policy & Operations",
+    "description": "Dee Coakley, will share proven strategies and frameworks for establishing best-practice policies and effective operations for any remote organisation.",
+    "status": "draft",
+    "startsAt": "2021-12-04T09:00:00.000Z",
+    "endsAt": "2021-12-04T09:30:00.000Z",
+    "company": {
+      "name": "Oracle",
+      "description": "cultivate transparent bandwidth"
+    },
+    "coverUrl": "https://picsum.photos/id/180/800/600",
+    "speakers": [{
+      "id": "46a3e04c-4aab-4097-9e0b-ded06053b8c5",
+      "email": "dee.coakley@oracle.com",
+      "firstName": "Dee",
+      "lastName": "Coakley",
+      "pictureUrl": "https://i.pravatar.cc/100",
+      "profile": {
+        "position": "Chief of Operations",
+        "department": "operations",
+        "company": {
+          "name": "Oracle",
+          "description": "cultivate transparent bandwidth"
+        }
+      }
+    }]
+  },
+  {
+    "id": "bbb3b5cb-ac01-4ee5-a4a9-801cb05ff6a4",
+    "name": "Panel: Hiring Remotely",
+    "description": "What is it like to hire someone remotely: Fareen Shaikh, June Bolneo, Gonçallo Hall and Maria Fuzikova share their experiences.",
+    "status": "published",
+    "startsAt": "2021-12-04T10:00:00.000Z",
+    "endsAt": "2021-12-04T10:30:00.000Z",
+    "channelId": "15f1dbfc-1583-4deb-accc-5fb6ed92845c",
+    "coverUrl": "https://picsum.photos/id/201/800/600",
+    "speakers": [{
+      "id": "a28cb65c-fade-4adb-a96b-4c95eda17057",
+      "firstName": "Fareen",
+      "lastName": "Shaikh",
+      "pictureUrl": "https://i.pravatar.cc/100",
+      "profile": {
+        "position": "Hiring manager",
+        "department": "human_ressources",
+        "company": {
+          "name": "Hired",
+          "description": "Hire better tech talent, faster"
+        }
+      }
+    }, {
+      "id": "12705470-611b-456e-be28-f0ac4788c59b",
+      "firstName": "June",
+      "lastName": "Bolneo",
+      "pictureUrl": "https://i.pravatar.cc/100",
+      "profile": {
+        "position": "Tech Recruiter",
+        "department": "human_ressources",
+        "company": {
+          "name": "Hired",
+          "description": "Hire better tech talent, faster"
+        }
+      }
+    }, {
+      "id": "71f5fd6e-7da3-46b6-9320-d26cdaf19c01",
+      "firstName": "Gonçallo",
+      "lastName": "Hall",
+      "pictureUrl": "https://i.pravatar.cc/100",
+      "profile": {
+        "position": "Sales Recruiter",
+        "department": "human_ressources",
+        "company": {
+          "name": "Hired",
+          "description": "Hire better tech talent, faster"
+        }
+      }
+    }, {
+      "id": "a36edce3-2201-4412-bfe6-37fff4625fdb",
+      "firstName": "Maria",
+      "lastName": "Fuzikova",
+      "pictureUrl": "https://i.pravatar.cc/100",
+      "profile": {
+        "position": "Recruiter",
+        "department": "human_ressources",
+        "company": {
+          "name": "Hired",
+          "description": "Hire better tech talent, faster"
+        }
+      }
+    }]
+  }
+]
