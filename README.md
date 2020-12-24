@@ -19,6 +19,14 @@ You should find in this repository a JSON file containing some content sessions.
 
 You can use the language, framework and the tools of your choice. Choose the ones that you're most familiar with. If you prefer to use the same stack as us, please note that we use ReactJS and the create-react-app framework with TypeScript.
 
+## Expected time frame
+
+We voluntarily do not set an exact time frame for this test. Please don't take too much time to do it, at least not more than 4 hours.
+
+## Test result
+
+You can send us back your test result as a Github / Gitlab repository. A clean README file will be appreciated.
+
 ## What we will pay attention to
 
 - 🎨 The code style
